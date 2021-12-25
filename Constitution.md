@@ -1,6 +1,6 @@
 # The Constitution of Leserve DAO
 
-*Version 1.0 ([changelog](./Changelog.md))*
+*Version 1.0 ([changelog](https://github.com/LeserveDAO/Constitution/blob/main/Changelog.md))*
 
 *We the people of Leserve, do acknowledge and respect the undeniable human right to acquire financial freedom. Leserve DAO delivers and enforces this right through a fully digital reserve asset that remains independent of any government, currency or centralized institution.*
 
