@@ -13,5 +13,5 @@ This repository contains the Constitution of Leserve DAO.
 
 * 👾  [Leserve DAO Discord](https://discord.com/invite/gMGGU9dCQ7) 
 * 🌍  [Leserve DAO Website](https://leserve.finance)  
-* 🕊  [Leserve DAO Twitter](https://leserve.finance)  
+* 🕊  [Leserve DAO Twitter](https://twitter.com/leservedao)  
 * 📰  [Leserve DAO Medium](https://leservedao.medium.com/)  
